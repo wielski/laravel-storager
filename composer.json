@@ -1,15 +1,9 @@
 {
-  "name": "wielski/laravel-fileapi",
-  "description": "Laravel File API - Handle Files with Laravel Storage",
+  "name": "wielski/laravel-storager",
+  "description": "Laravel Storager",
   "type": "library",
-  "keywords": [ "fileapi", "file", "api", "storage", "laravel"],
+  "keywords": [ "storager", "file", "api", "storage", "laravel"],
   "license": "MIT",
-  "authors": [
-    {
-      "name":  "UniSharp Ltd. (Composer Package Maintainer)",
-      "homepage": "http://www.unisharp.com"
-    }
-  ],
   "require": {
     "php": ">=5.5.0",
     "illuminate/support": ">=5.0.0",
